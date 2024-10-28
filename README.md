@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike.
   
-- 👀 I’m interested in ML and to makr myself better at coding and developing code to be usefull for myself and others.
+- 👀 I’m interested in ML and to make myself better at coding and developing code to be usefull for myself and others.
   
 - 🌱 I’m currently learning python, javascript, sql, swift, c++, xml.
     
