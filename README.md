@@ -1,5 +1,5 @@
 # 💫 About Me:
-Wassup.<br><br>I’m interested in ML, and Back-end.<br><br>I’m currently looking to advance and utilize my skills in Python, javascript, sql, swift, c++, html, and have been working on Bash and R<br><br>Currently working on a Stock Trading ML Algorithm.<br><br>About me: 2019 discovered i liked coding and starting learning as much as i could taking a Bootcamp and a few free Harvard CS classes and just by doing, im very chill and layed back.<br><br>Always down to make friends and learn and help out if i can.<br><br>(looking for employment)<br><br>
+Wassup.<br><br>I’m interested in ML, and Back-end.<br><br>I’m currently looking to advance and utilize my skills in Python, javascript, sql, swift, c++, html, and have been working on Bash and R<br><br>Currently working on a Stock Trading ML Algorithm.<br><br>About me: 2019 discovered i liked coding and starting learning as much as i could taking a Bootcamp and a few free Harvard CS classes and just by doing, im very chill and layed back.<br><br>Always down to make friends and learn and help out if i can.<br><br><br><br>
 
 
 # 💻 Tech Stack:
