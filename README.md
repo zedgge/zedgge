@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Welcome! 🎉<br><br>Snacks will not be provided. 🍪❌<br><br>This is my little corner of the internet where I post some of my completed projects (okay... maybe like 10% of them). Some might even be useful. To someone. Somewhere. Possibly.<br><br>I build things for fun, learning, and occasionally chaos.  <br>Always curious, always improving.<br><br>Feel free to poke around — just don’t expect anything too serious.<br>
+# Welcome! 🎉<br><br>Snacks will not be provided. 🍪❌<br><br>This is my little corner of the internet where I post some of my completed projects (okay... maybe like 10% of them). if you want to learn more about my "official" completed projects msgs me and talk to me id love to talk about it if your intrested. Some of my projects might even be useful. To someone. Somewhere. Possibly.<br><br>I build things for fun, learning, and occasionally chaos.  <br>Always curious, always improving.<br><br>Feel free to poke around — just don’t expect anything too serious.<br>
 
 
 ## 🌐 Socials:
