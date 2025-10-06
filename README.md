@@ -1,18 +1,89 @@
-# 💫 About Me:
-# Welcome! 🎉<br><br>Snacks will not be provided. 🍪❌<br><br>This is my little corner of the internet where I post some of my completed projects (okay... maybe like 10% of them). if you want to learn more about my "official" completed projects msg me and talk to me id love to talk about it if your intrested. Some of my projects might even be useful. To someone. Somewhere. Possibly.<br><br>I build things for fun, learning, and occasionally chaos.  <br>Always curious, always improving.<br><br>Feel free to poke around — just don’t expect anything too serious.<br>
+# About Me
 
+I'm a software engineer who builds across the stack—quantitative systems, machine learning infrastructure, backend services, automation tools, and performance-critical applications. I work on problems that require precision: statistical models, real-time data pipelines, algorithmic systems, and distributed infrastructure.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michael-hamer-48ab0327b/) 
+I care about building things that work reliably in production. Whether it's optimizing inference latency, designing scalable APIs, automating complex workflows, or researching quantitative strategies, I focus on systems that perform consistently under real constraints.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zedgge&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zedgge&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zedgge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My interests span quantitative development, systems programming, machine learning research, data engineering, and full-stack development. I enjoy working on challenging technical problems—from low-level optimization to high-level system design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zedgge&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Work On
+
+### Machine Learning & Research
+Training and deploying production ML models, building research frameworks, and optimizing inference pipelines. Experience with statistical modeling, algorithmic design, and experimental systems from concept to deployment.
+
+### Backend & API Development
+Designing scalable APIs, building microservices, and developing real-time processing systems. Focus on performance, reliability, and clean architecture that scales with demand.
+
+### Quantitative Systems & Simulation
+Building backtesting frameworks, simulation engines, and algorithmic trading systems. Experience with statistical analysis, risk modeling, and quantitative research tools.
+
+### Data Engineering & Infrastructure
+Orchestrating ETL workflows, managing data pipelines, and building distributed processing systems. Work includes database optimization, cloud infrastructure, and production ML deployment.
+
+### Automation & Tooling
+Creating developer tools, automating workflows, and building internal systems that improve productivity. Experience with CI/CD, scripting, and infrastructure automation.
+
+---
+
+## Technical Stack
+
+### Languages
+**Primary:** Python, C++, Rust, Go  
+**Secondary:** JavaScript/TypeScript, SQL, Shell/Bash
+
+### Machine Learning & Scientific Computing
+**Frameworks:** PyTorch, TensorFlow, Scikit-learn  
+**Numerical:** NumPy, Pandas, SciPy, Polars  
+**Visualization:** Matplotlib, Plotly, Seaborn
+
+### Backend & APIs
+**Frameworks:** FastAPI, Flask, Express, Node.js  
+**Databases:** PostgreSQL, MySQL, SQLite, Redis  
+**Cloud/Data:** Snowflake, AWS, GCP
+
+### Infrastructure & DevOps
+**Containerization:** Docker, Docker Compose  
+**Version Control:** Git, GitHub Actions  
+**CI/CD:** Jenkins, GitLab CI, GitHub Actions  
+**Systems:** Linux (Ubuntu, Debian, Fedora, Void), Nginx, Systemd
+
+### Development Environment
+**Editors:** VS Code, Vim/Neovim, Atom
+**Tools:** Jupyter, IPython, Postman, tmux  
+**Debugging:** gdb, pdb, Valgrind, perf
+
+---
+
+## Current Focus
+
+**Go for ML Systems** — Exploring Go's concurrency primitives for high-throughput inference and real-time model serving  
+**Headless ML Optimization** — Building deployment-optimized models with minimal runtime overhead  
+**Quantitative Research** — Developing backtesting frameworks and algorithmic trading systems
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&hide_rank=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+## Connect
+
+**Professional:** [LinkedIn](https://linkedin.com/in/michaeljhamer1)  
+
+---
+
+<div align="center">
+<sub>Building systems that work. Solving problems that matter.</sub>
+</div>
