@@ -57,8 +57,11 @@ Creating developer tools, automating workflows, and building internal systems th
 ---
 
 ### Projects under Development
-**Monte Carlo Risk Simulator
-**MatrixPulse in GO
+
+**Monte Carlo Risk Simulator** — A high-performance simulation engine for portfolio risk modeling, featuring variance reduction techniques, GPU acceleration, stress testing scenarios, and PDF reporting. Built in Python with a focus on reliability, scalability, and quantitative research applications.
+
+**MatrixPulse** — A real-time data processing and analytics framework in Go, leveraging Go's concurrency primitives for high-throughput streaming, monitoring, and ML pipeline integration. Designed to handle large-scale data efficiently while maintaining low-latency performance.
+
 
 ---
 
