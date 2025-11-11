@@ -56,11 +56,17 @@ Creating developer tools, automating workflows, and building internal systems th
 
 ---
 
+### Projects under Development
+**Monte Carlo Risk Simulator
+**MatrixPulse in GO
+
+---
+
 ## Current Focus
 
 **Go for ML Systems** — Exploring Go's concurrency primitives for high-throughput inference and real-time model serving  
 **Headless ML Optimization** — Building deployment-optimized models with minimal runtime overhead  
-**Quantitative Research** — Developing backtesting frameworks and algorithmic trading systems
+**Quantitative Research** — Developing backtesting frameworks and algorithmic trading systems to get that headstart
 
 ---
 
