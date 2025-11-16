@@ -1,56 +1,49 @@
 ## About
 
-Software engineer and researcher specializing in **high-performance computation**, **quantization**, and **machine learning systems engineering**. I build real-time data systems, ML research infrastructure, simulation engines, and performance-critical applications across Python, Go, C++, and Rust.
+Software engineer and researcher specializing in high performance computation, quantization methods, and machine learning systems engineering. I build real time data systems, ML research infrastructure, simulation engines, and performance focused applications using Python, Go, C++, and Rust.
 
-My work focuses on systems that must operate under real constraints—**latency**, **throughput**, **memory pressure**, **numerical stability**, and **energy efficiency**. Current research centers on **precision-efficient ML** (INT8/INT4, mixed precision), memory-optimized computation, and instruction-level acceleration of neural networks.
+My work focuses on systems that operate under real constraints such as latency, throughput, memory pressure, numerical stability, and energy efficiency. Current research includes precision efficient ML, memory optimized computation, and instruction level acceleration of neural networks.
 
----
+## Research and Development
 
-## Research & Development
+### Machine Learning and Quantization
+Work in precision efficient ML including INT8 and INT4 quantization, mixed precision methods, and cache aware computational layouts. Research areas include:
 
-### Machine Learning & Quantization
-Developing precision-efficient ML methods including INT8/INT4 quantization, mixed precision strategies, and cache-aware computational layouts. Research includes:
-
-- Quantization-aware training and dynamic precision control  
-- Memory locality, branch reduction, and cache-optimized kernels  
-- Numerical stability improvements in low-precision inference  
-- Energy-aware training and inference profiling  
+- Quantization aware training and dynamic precision control
+- Memory locality, branch reduction, and cache optimized kernels
+- Improvements to numerical stability in low precision inference
+- Energy aware training and inference profiling
 
 ### Quantitative Systems
-Development of high-performance Monte Carlo engines using GPU acceleration, vectorized sampling, and advanced variance reduction. Work includes risk modeling, backtesting systems, and statistical simulation frameworks.
+Development of high performance Monte Carlo engines with GPU acceleration, vectorized sampling, and variance reduction. Additional work in risk modeling, backtesting systems, and statistical simulation frameworks.
 
 ### Distributed Infrastructure
-Building concurrent real-time data systems in Go. Focus on lock-efficient concurrency, scalable streaming, zero-copy data handling, and microservice reliability under high load.
+Building concurrent real time data systems in Go. Focus on lock efficient concurrency, scalable streaming, zero copy data handling, and reliable microservice behavior under load.
 
-### Backend & API Engineering
-Designing low-latency API layers, distributed backends, and microservices with clean architecture, observability, and predictable performance characteristics.
-
----
+### Backend and API Engineering
+Designing low latency API layers and distributed backends with clean architecture, predictable performance, and strong observability.
 
 ## Projects
 
-### No-Imports Neural Network (PyPy3-Optimized)
-A neural network built **entirely from scratch with zero external libraries**, using only basic Python primitives. Implemented on **PyPy3** to bypass CPython interpreter overhead—resulting in **multi-x speedups** for tight numerical loops, matrix operations, and gradient propagation.  
-Research areas: numerical stability, precision-efficient backprop, memory locality, and instruction-level optimization.
+### No Imports Neural Network (PyPy3 Based)
+A neural network implementation written entirely from scratch with no external libraries. The system uses PyPy3 to avoid CPython interpreter overhead which provides large speedups for inner numerical loops, matrix operations, and gradient propagation. Research areas include numerical stability, precision efficient backpropagation, memory locality, and low level optimization.
 
 ### Monte Carlo Risk Simulator
-Production-grade simulation engine for portfolio risk modeling. Utilizes variance reduction strategies, GPU parallelization, and stress-scenario modeling. Includes automated reporting and batch-mode compute pipelines.
+Simulation engine for portfolio risk modeling using variance reduction, GPU parallelism, and stress scenario modeling. Includes automated reporting and batch compute pipelines.
 
 ### MatrixPulse
-High-throughput real-time analytics framework in Go. Built on lock-efficient concurrency primitives, zero-copy buffering, and streaming ML integration. Designed for ultra-low-latency data ingestion and processing.
-
----
+Real time analytics framework written in Go using lock efficient concurrency, zero copy buffering, and streaming ML integration. Designed for very low latency data ingestion and processing.
 
 ## Technical Stack
 
-**Languages**  
-`Python (CPython + PyPy3)` · `Go` · `C++` · `Rust` · `JavaScript/TypeScript` · `SQL` · `Bash`
+Languages  
+Python (CPython and PyPy3), Go, C++, Rust, JavaScript, TypeScript, SQL, Bash
 
-**ML & Scientific Computing**  
-`PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `Polars` · `Scikit-learn`
+ML and Scientific Computing  
+PyTorch, TensorFlow, NumPy, Pandas, Polars, Scikit learn
 
-**Backend & Data**  
-`FastAPI` · `Flask` · `PostgreSQL` · `Redis` · `Snowflake` · `AWS` · `GCP`
+Backend and Data  
+FastAPI, Flask, PostgreSQL, Redis, Snowflake, AWS, GCP
 
-**Infrastructure & Tools**  
-`Docker` · `Git` · `GitHub Actions` · `Linux` · `Nginx` · `Jupyter` · `gdb` · `Valgrind`
+Infrastructure and Tools  
+Docker, Git, GitHub Actions, Linux, Nginx, Jupyter, gdb, Valgrind
