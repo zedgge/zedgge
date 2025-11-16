@@ -1,98 +1,56 @@
-# About Me
-I'm a software engineer and researcher focused on high-performance computation, machine learning systems, and quantitative engineering. I work across the stack—real-time data systems, ML research infrastructure, backend services, and low-level performance optimization.
+## About
 
-My work centers on building systems that operate reliably under real constraints: latency, compute limits, data throughput, and numerical stability. I care about architectures that are efficient, predictable, and measurable—whether that means optimizing inference pipelines, designing scalable APIs, or improving computational efficiency in ML workloads.
+Software engineer and researcher specializing in **high-performance computation**, **quantization**, and **machine learning systems engineering**. I build real-time data systems, ML research infrastructure, simulation engines, and performance-critical applications across Python, Go, C++, and Rust.
 
-My current interests span machine learning research, quantization and precision-efficiency methods, systems programming, simulation engines, and distributed computation. I enjoy solving hard technical problems that require both theoretical understanding and production-grade engineering.
-
----
-
-# What I Work On
-
-### Machine Learning & Research
-Developing research frameworks, experimenting with precision-efficient ML (quantization, mixed precision, low-bit inference), and optimizing model runtime performance. Experience in statistical modeling, algorithmic design, and computational analysis.
-
-### Backend & API Development
-Designing scalable APIs and high-reliability microservices. Focus on performance, clean architecture, observability, and systems that scale with demand.
-
-### Quantitative Systems & Simulation
-Building simulation engines, backtesting frameworks, and algorithmic trading tools. Work includes statistical analysis, risk modeling, and high-throughput computation.
-
-### Data Engineering & Infrastructure
-Designing ETL pipelines, distributed processing systems, data orchestration workflows, and optimized database schemas. Experience with cloud infrastructure and production ML deployment.
-
-### Automation & Tooling
-Building internal tools that improve developer productivity. Experience with workflow automation, CI/CD, reproducible environments, and continuous integration systems.
+My work focuses on systems that must operate under real constraints—**latency**, **throughput**, **memory pressure**, **numerical stability**, and **energy efficiency**. Current research centers on **precision-efficient ML** (INT8/INT4, mixed precision), memory-optimized computation, and instruction-level acceleration of neural networks.
 
 ---
 
-# Technical Stack
+## Research & Development
 
-### Languages
-**Primary:** Python, C++, Rust, Go  
-**Secondary:** JavaScript/TypeScript, SQL, Shell/Bash
+### Machine Learning & Quantization
+Developing precision-efficient ML methods including INT8/INT4 quantization, mixed precision strategies, and cache-aware computational layouts. Research includes:
 
-### Machine Learning & Scientific Computing
-PyTorch, TensorFlow, Scikit-learn  
-NumPy, Pandas, SciPy, Polars  
-Matplotlib, Plotly, Seaborn
+- Quantization-aware training and dynamic precision control  
+- Memory locality, branch reduction, and cache-optimized kernels  
+- Numerical stability improvements in low-precision inference  
+- Energy-aware training and inference profiling  
 
-### Backend & APIs
-FastAPI, Flask, Express, Node.js  
-PostgreSQL, MySQL, SQLite, Redis  
-AWS, GCP, Snowflake
+### Quantitative Systems
+Development of high-performance Monte Carlo engines using GPU acceleration, vectorized sampling, and advanced variance reduction. Work includes risk modeling, backtesting systems, and statistical simulation frameworks.
 
-### Infrastructure & DevOps
-Docker, Docker Compose  
-Git, GitHub Actions  
-Jenkins, GitLab CI  
-Linux (Ubuntu, Debian, Fedora, Void), Nginx, Systemd
+### Distributed Infrastructure
+Building concurrent real-time data systems in Go. Focus on lock-efficient concurrency, scalable streaming, zero-copy data handling, and microservice reliability under high load.
 
-### Development Environment
-VS Code, Vim/Neovim  
-Jupyter, IPython, Postman, tmux  
-gdb, pdb, Valgrind, perf
+### Backend & API Engineering
+Designing low-latency API layers, distributed backends, and microservices with clean architecture, observability, and predictable performance characteristics.
 
 ---
 
-# Completed Projects
+## Projects
 
-### **Monte Carlo Risk Simulator**
-A high-performance Monte Carlo simulation engine for portfolio risk modeling.  
-Features variance reduction, stress testing, GPU-assisted computation, and automated PDF reporting.  
-Built for quantitative research, reliability, and high-volume computation.
+### No-Imports Neural Network (PyPy3-Optimized)
+A neural network built **entirely from scratch with zero external libraries**, using only basic Python primitives. Implemented on **PyPy3** to bypass CPython interpreter overhead—resulting in **multi-x speedups** for tight numerical loops, matrix operations, and gradient propagation.  
+Research areas: numerical stability, precision-efficient backprop, memory locality, and instruction-level optimization.
 
-### **MatrixPulse**
-A real-time analytics and streaming computation framework written in Go.  
-Designed for high-throughput data ingestion, concurrent processing pipelines, monitoring, and ML system integration.  
-Optimized for minimal latency and efficient use of Go’s concurrency primitives.
+### Monte Carlo Risk Simulator
+Production-grade simulation engine for portfolio risk modeling. Utilizes variance reduction strategies, GPU parallelization, and stress-scenario modeling. Includes automated reporting and batch-mode compute pipelines.
 
----
-
-# Projects in Development
-
-### **No-Imports Neural Network (From-Scratch ML System)**
-A fully from-first-principles neural network implementation written with zero external libraries.  
-Focus areas: numerical stability, efficient gradient flow, minimal-dependency ML architectures, and fully interpretable compute pipelines.  
-Expanding into energy-aware training and instruction-level efficiency research.
+### MatrixPulse
+High-throughput real-time analytics framework in Go. Built on lock-efficient concurrency primitives, zero-copy buffering, and streaming ML integration. Designed for ultra-low-latency data ingestion and processing.
 
 ---
 
-# Current Research Focus
+## Technical Stack
 
-### **Quantization & Efficient Computation**
-Developing methods for:
-- precision-efficient ML (INT8/INT4, mixed precision)  
-- adaptive quantization strategies  
-- cache- and bandwidth-optimized computation  
-- reducing energy use in training and inference  
+**Languages**  
+`Python (CPython + PyPy3)` · `Go` · `C++` · `Rust` · `JavaScript/TypeScript` · `SQL` · `Bash`
 
-Studying ways to make ML and general computation significantly more efficient through precision control, memory behavior optimization, and low-bit mathematical representations.
+**ML & Scientific Computing**  
+`PyTorch` · `TensorFlow` · `NumPy` · `Pandas` · `Polars` · `Scikit-learn`
 
-### **Efficient ML Systems**
-Exploring Go, Rust, and C++ for high-throughput inference, low-latency compute paths, and deployment-optimized model serving.
+**Backend & Data**  
+`FastAPI` · `Flask` · `PostgreSQL` · `Redis` · `Snowflake` · `AWS` · `GCP`
 
-### **Quantitative Engineering**
-Building next-generation simulation engines, backtesting systems, and algorithmic modeling frameworks.
-
----
+**Infrastructure & Tools**  
+`Docker` · `Git` · `GitHub Actions` · `Linux` · `Nginx` · `Jupyter` · `gdb` · `Valgrind`
