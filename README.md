@@ -10,7 +10,7 @@ Software engineer and researcher working on high-performance computation, quanti
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ![Quant Dev](https://img.shields.io/badge/Quant-Developer-black?style=flat)
-![Latency Matters](https://img.shields.io/badge/Latency%20Matters-<1ms-blue?style=flat)
+![Latency Matters](https://img.shields.io/badge/Latency%20Matters-1ms_or_less-blue?style=flat)
 ![Numerical Stability](https://img.shields.io/badge/Numerical-Stability-red?style=flat)
 
 ---
